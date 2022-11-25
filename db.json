@@ -1,0 +1,29 @@
+{
+  "sites": [
+    {
+      "id": 1,
+      "name": "Angular",
+      "url": "https://angular.io/"
+    },
+    {
+      "id": 2,
+      "name": "React",
+      "url": "https://reactjs.org/"
+    },
+    {
+      "id": 3,
+      "name": "Vue.js",
+      "url": "https://vuejs.org/"
+    },
+    {
+      "name": "Google Japan",
+      "url": "https://google.co.jp",
+      "id": 4
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com",
+      "id": 5
+    }
+  ]
+}
